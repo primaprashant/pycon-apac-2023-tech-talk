@@ -20,8 +20,6 @@ In this tech talk, we will explore how AI can be used to predict the skill requi
    1. Who am I? (1 min)
    2. Why do we need a routing algorithm for customer inquiries? (1 min)
    3. Why do we need a better algorithm than random allocation? (3 min)
-   4. Why do we need a routing algorithm for customer inquiries? (1 min)
-   5. Why do we need a better algorithm than random allocation? (3 min)
 2. Designing a simple skill-based routing algorithm (5 min)
    1. Assigning skills based on the inquiry category selected by the customer (2 min)
    2. Assigning skills using a keyword-matching algorithm (3 min)
