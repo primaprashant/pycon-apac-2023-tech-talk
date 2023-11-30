@@ -1,8 +1,12 @@
 # PyCon APAC 2023 Tech Talk - AI for Efficient Routing of Customer Inquiries at Mercari
 
-![title slide](images/first-slide.png)
+## Talk video
 
-[Slides](./pycon-apac-2023-tech-talk-prashant-anand.pdf)
+Click on the image below to play the video. My talk starts at the timestamp 2:32:33 and it's a half hour talk.
+
+[![title slide](images/first-slide.png)](https://www.youtube.com/watch?v=qM2ZinHiAd8&t=9153s)
+
+[Link to slides (pdf version)](./pycon-apac-2023-tech-talk-prashant-anand.pdf)
 
 ## Abstract
 
