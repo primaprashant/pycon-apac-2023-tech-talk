@@ -1,6 +1,6 @@
 # PyCon APAC 2023 Tech Talk - AI for Efficient Routing of Customer Inquiries at Mercari
 
-I gave my first-ever tech-talk at a conference at PyCon APAC 2023 on Friday, October 27th. I mostly talked about how we use AI in customer support operation at Mercari. The takeaways from the talk are:
+I gave my first-ever tech-talk at a conference at [PyCon APAC 2023](https://2023-apac.pycon.jp/) on Friday, October 27th. I mostly talked about how we use AI in customer support operation at Mercari. The takeaways from the talk are:
 
 - Translating a business problem into an ML one
 - Solving the ML problem using NLP and Python
